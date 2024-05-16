@@ -411,3 +411,8 @@ a:hover {
 }
 
 /* end Status page */
+
+/* define outline upon focus */
+.adyen-checkout__input--focus {
+  outline: 4px solid orange;
+}
